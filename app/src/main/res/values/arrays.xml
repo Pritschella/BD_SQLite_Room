@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Carrera">
+        <item>Elija una opción...</item>
+        <item>Ingeniería en Mecatrónica</item>
+        <item>Ingeniería en Sistemas Computacionales</item>
+        <item>Ingeniería en Industrias Alimentarias</item>
+        <item>Licenciatura en Administración</item>
+        <item>Licenciatura en Contaduría</item>
+
+    </string-array>
+
+
+
+</resources>
